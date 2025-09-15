@@ -1,0 +1,8 @@
+vegetation.tree.quercus.agrifolia.vswir.jpl108.jpl.asd.ancillary.txt 
+
+vegetation.tree.quercus.agrifolia.vswir.jpl108.jpl.asd.spectrum.txt 
+
+manmade.road.pavingasphalt.solid.all.0674uuuasp.jhu.becknic.spectrum.txt 
+
+Manifest.txt 
+
